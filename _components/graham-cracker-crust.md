@@ -6,15 +6,19 @@ image: graham-cracker-crust.jpg
 imagecredit: https://flic.kr/p/atxu75
 
 ingredients:
-- 2 cups graham cracker crumbs
-- 6 tbs butter (melted)
-- 1/3 cup white sugar
-- 1 tsp cinnamon
+- 1 package of honey maid graham crackers
+- 1 stick of butter
+- 1/4 cup white sugar
+- [1 tsp cinnamon]
 
 directions:
-- pulse graham cracker in food processor or use muddler to crumb in bowl
-- combine melted butter, graham cracker crumbs, sugar, and cinnamon in a bowl
+- crush graham crackers in a ziplock bag with a rolling pin
+- melt butter (recommended breaking the butter into small pieces)
+- combine melted butter, graham cracker crumbs, sugar, [cinnamon] in a bowl
 - press into pan, forming into crust shape
+
+considerations:
+- recipe for 9'' pan
 
 ---
 

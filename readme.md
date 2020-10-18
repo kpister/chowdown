@@ -2,7 +2,7 @@
 
 A simple, plaintext recipe database for hackers
 
-[http://chowdown.io](http://chowdown.io)
+[https://kpister.github.io/chowdown](https://kpister.github.io/chowdown)
 
 # Getting Started
 
