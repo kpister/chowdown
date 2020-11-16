@@ -1,6 +1,6 @@
 # Site settings
 title: Chowdown
-email: foolish@hey.com
+email: me@kaiser.cloud
 description: The plain text recipe database for hackers
 baseurl: "/chowdown"
 language: "en"
@@ -18,6 +18,8 @@ collections:
   components:
     output: true
   recipes:
+    output: true
+  drinks:
     output: true
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
