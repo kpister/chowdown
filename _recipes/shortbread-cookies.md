@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Shortbreak Cookies"
+title:  "Shortbread Cookies"
 image: banana-bread.jpg
 imagecredit: https://flic.kr/p/7HZmzn
 tags: dessert
@@ -9,7 +9,8 @@ tags: dessert
 ingredients:
 - 3 sticks of unsalted butter, room temperature
 - 1 cup, 1 Tbls sugar
-- 1.25 tsp vanilla
+- 1.25 tsp salt
+- 1 tsp vanilla
 - 2.66 cup flour
 
 directions:
