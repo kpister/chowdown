@@ -15,9 +15,9 @@ ingredients:
 - 1 tsp vanilla
 
 directions:
-- dry = { sift together flour, PSM, baking powder, salt }
+- dry = { sift together flour, cocoa, baking powder, salt }
 - separate eggs, whisk whites until stiff peaks
-- wet = { mix pumpkin with yolks }
+- wet = { yolks, vanilla }
 - fold wet into whites; fold dry into whites
 - line jelly roll pan with parchment paper
 - pour (and smooth) mixture onto pan
