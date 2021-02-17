@@ -14,8 +14,10 @@ ingredients:
 - 2 eggs
 
 directions:
+- Make crust in 9'' circular pan
 - bowl = Cream 8oz cream cheese and 2/3 cup sugar
 - beat bowl, 1/2 cup sour cream, 1 tsp vanilla, eggs
+- pour bowl over crust
 - bake at 325 for 45 minutes. let cool
 - topping = mix 1 cup sour cream, 1 tsp vanilla, 1/4 cup sugar 
 - pour topping over bowl, chill. (you and the cake)
